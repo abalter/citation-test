@@ -1,0 +1,11 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.csl-entry {
+  display: list-item;
+  margin-left: 1.3em;
+  list-style-type: disk;
+  list-style-position: outside;
+}
